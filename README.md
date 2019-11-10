@@ -1,5 +1,7 @@
 **Mini Project 2: Calculator**
 
+[![Build Status](https://travis-ci.org/natashakhoblall/calculatorproject.svg?branch=master)](https://travis-ci.org/natashakhoblall/calculatorproject)
+
 Group Members: Natasha Khoblall and Omar Awad 
 
 **Basic Calculation Functions:**
