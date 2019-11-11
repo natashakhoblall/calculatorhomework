@@ -44,10 +44,10 @@ Group Members: Natasha Khoblall and Omar Awad
 - Sat Nov 09 - Feature: Added Variance of Population Proportion file
 
 **Change By User: Omar Awad**
-- Feature: Added Confidence Interval file
-- Feature: Added Population Variance file
-- Feature: Added P Value file
-- Feature: Added Proportion file 
-- Feature: Added Sample Mean file
-- Feature: Added Sample Standard Deviation file
-- Feature: Variance of Sample Proportion file
+- Mon Nov 11 - Feature: Added Confidence Interval file
+- Mon Nov 11 - Feature: Added Population Variance file
+- Mon Nov 11 - Feature: Added P Value file
+- Mon Nov 11 - Feature: Added Proportion file 
+- Mon Nov 11 - Feature: Added Sample Mean file
+- Mon Nov 11 - Feature: Added Sample Standard Deviation file
+- Mon Nov 11 - Feature: Variance of Sample Proportion file
