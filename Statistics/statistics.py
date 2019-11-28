@@ -88,4 +88,5 @@ class Statistics(Calculator):
         self.result = samplevariance(data)
         return self.result
 
+    
     pass
